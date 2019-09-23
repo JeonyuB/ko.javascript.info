@@ -1,0 +1,558 @@
+[33mcommit 35d6b7eef1ae9a12868eb30dd9ecf8f0580e7708[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JeonyuB <cath990409@gmail.com>
+Date:   Mon Sep 23 11:46:28 2019 +0900
+
+    dnl
+
+[33mcommit e6bd8d211b40a6251590fc663d2b085453f4dec0[m[33m ([m[1;31morigin/sangmyung[m[33m)[m
+Author: jiyeonnn03 <49242144+jiyeonnn03@users.noreply.github.com>
+Date:   Mon Sep 23 01:26:51 2019 +0900
+
+    #162 제너레이터 과제 번역 (#165)
+    
+    * 제너레이터 과제 번역(#162)
+    
+    /solution.md
+    /task.md
+    번역입니다.
+    
+    * #162 1-js/12-generators-iterators/1-generators/01-pseudo-random-generator
+    /solution.md
+    /task.md
+    번역입니다.
+
+[33mcommit e31ef44ca42bc6a4f10c5ce8b26fb203469bf5d3[m
+Merge: fcfc365b 09c8540b
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Sat Sep 21 15:38:50 2019 +0900
+
+    Merge pull request #163 from happhee/master
+    
+    1-js\01-getting-started\3-code-editors 2차 리뷰
+
+[33mcommit 09c8540ba03a0c8983f0e8db8a90a1e0545f4fb6[m
+Author: happhee <heehee2310@gmail.com>
+Date:   Sat Sep 21 15:18:58 2019 +0900
+
+    1-js\01-getting-started\3-code-editors 2차 리뷰
+
+[33mcommit fcfc365bf9072f0420fe8a03b5c92c55531ad433[m
+Merge: 6ebb36fa 9e666105
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Sat Sep 21 01:24:51 2019 +0900
+
+    Merge pull request #161 from sangwoo108/master
+    
+    Property 번역어 통일
+
+[33mcommit 9e66610563cb58660dbf9bc20983ac179f6834eb[m
+Author: Sangwoo Ko <sangwoo.ko@navercorp.com>
+Date:   Fri Sep 20 18:49:37 2019 +0900
+
+    Property 번역어 통일
+    
+    Property의 번역어는 `속성`이 아니라 `프로퍼티`로 합의함.
+    
+    * 01-prototype-inheritance
+    * 02-function-prototype
+
+[33mcommit 6ebb36fa12aec9cfa43890a5393020594d10fabf[m
+Author: Violet-Bora-Lee <learnerbr@gmail.com>
+Date:   Fri Sep 20 18:34:57 2019 +0900
+
+    쿠키와 document.cookie 원문 수정분 재번역
+
+[33mcommit cbad0debd8db3fd35c16c2d936f7c596d7c07509[m
+Merge: e32148db f80dc03d
+Author: Violet Bora Lee <learnerbr@gmail.com>
+Date:   Fri Sep 20 11:37:03 2019 +0900
+
+    Merge branch 'master' of https://github.com/javascript-tutorial/en.javascript.info
+
+[33mcommit e32148db32735565b43af96c3e93b152a75b193c[m
+Merge: edaf387b e67155a6
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Fri Sep 20 17:32:03 2019 +0900
+
+    Merge pull request #155 from JuYeong0413/master
+    
+    1-js/02-first-steps/01-hello-world/article.md 리뷰
+
+[33mcommit e67155a66549407997c21445c9e8b7daf5cb486f[m
+Author: JuYeong0413 <2jy22@naver.com>
+Date:   Fri Sep 20 17:30:22 2019 +0900
+
+    Hello, world! 리뷰
+
+[33mcommit edaf387bb2374be0e67b41945701e6a8c3d9c666[m
+Merge: 98a81770 be98b549
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Fri Sep 20 04:06:54 2019 +0900
+
+    Merge pull request #154 from sangwoo108/master
+    
+    Property 번역어 통일
+
+[33mcommit f80dc03d87ec1d634ec71b94ab94c9620eac02a4[m
+Merge: 4745f44b fd4d2f0c
+Author: Alexey Pyltsyn <lex61rus@gmail.com>
+Date:   Thu Sep 19 19:54:53 2019 +0300
+
+    Fix extending of class (#1363)
+    
+    Fix extending of class
+
+[33mcommit fd4d2f0c6f0b1532632dd22e284250502da10289[m
+Author: Jigar Patel <jat@openerp.com>
+Date:   Thu Sep 19 11:08:11 2019 +0530
+
+    Fix extending of class
+
+[33mcommit be98b549ef3a7bd5c28ed6b39d0ad6e15d7b3867[m
+Author: sangwoo.ko <sangwoo.ko@navercorp.com>
+Date:   Thu Sep 19 12:19:28 2019 +0900
+
+    Property 번역어 통일
+    
+    Property의 번역어는 `속성`이 아니라 `프로퍼티`로 합의함.
+
+[33mcommit 4745f44bc145dd47edf70078a37f4d08c60ebc84[m
+Merge: 119fadf3 19108b3a
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:58:28 2019 +0300
+
+    Merge pull request #1348 from paroche/patch-31
+    
+    Update article.md
+
+[33mcommit 119fadf32078bf92ab40ccc541dbc015b447c782[m
+Merge: 7e9f902d 5fd99635
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:51:53 2019 +0300
+
+    Merge pull request #1349 from paroche/patch-37
+    
+    Update article.md
+
+[33mcommit 7e9f902d5800eb1a151f7ec748f4adbe3b4cedd9[m
+Merge: 2294306a 611c0fa1
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:50:32 2019 +0300
+
+    Merge pull request #1350 from pjsilvestre/patch-1
+    
+    Update article.md
+
+[33mcommit 2294306a9c238978ffc86d9a3251b092d222002a[m
+Merge: 6c83d458 18e1d883
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:50:10 2019 +0300
+
+    Merge pull request #1351 from scott-ln/patch-1
+    
+    Various minor grammar fixes and improvements
+
+[33mcommit 6c83d4585c80d262ed07016580a94b750bcf1775[m
+Merge: 007af4f0 9fd6995e
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:47:28 2019 +0300
+
+    Merge pull request #1352 from Violet-Bora-Lee/patch-33
+    
+    Fix typo
+
+[33mcommit 007af4f05e5883e388aac7b510538aede1e46485[m
+Merge: be9a3392 49bc62ee
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:47:14 2019 +0300
+
+    Merge pull request #1353 from Violet-Bora-Lee/patch-34
+    
+    Fix typo
+
+[33mcommit be9a339285a3b10598c1df8f7491f179176b5450[m
+Merge: 9f3178b9 087d09a4
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:47:05 2019 +0300
+
+    Merge pull request #1354 from Violet-Bora-Lee/patch-35
+    
+    Fix typo
+
+[33mcommit 9f3178b93e118e027f9fa2c4f6e1e1f85fc50974[m
+Merge: ce344e7a a477fff1
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:46:15 2019 +0300
+
+    Merge pull request #1355 from paroche/patch-39
+    
+    Update article.md
+
+[33mcommit ce344e7a7928c203996f7fd86b3be18c228382f3[m
+Merge: a7b50300 22ca59ef
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:45:55 2019 +0300
+
+    Merge pull request #1356 from paroche/patch-40
+    
+    Update article.md
+
+[33mcommit a7b50300c0d3928df4d50483004795106319b988[m
+Merge: 13bef41a f64f0381
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:45:36 2019 +0300
+
+    Merge pull request #1358 from paroche/patch-42
+    
+    Update article.md
+
+[33mcommit 13bef41ac7053c0f5c9b274d906f8928d275945f[m
+Merge: 851acfc2 adf7fb4f
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:45:12 2019 +0300
+
+    Merge pull request #1359 from paroche/patch-43
+    
+    Update article.md
+
+[33mcommit adf7fb4fececa77503b24f2f881c09bd23369bc2[m
+Merge: 1d2fe953 851acfc2
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:44:52 2019 +0300
+
+    Merge branch 'master' into patch-43
+
+[33mcommit 851acfc22e89bd0ab25b297bdd061b2fecb22aba[m
+Merge: fc6f37d1 172d3dfb
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:42:55 2019 +0300
+
+    Merge pull request #1360 from paroche/patch-44
+    
+    Update article.md
+
+[33mcommit fc6f37d1b14326469594a1166067f31911c32786[m
+Merge: 646989dd d7f96653
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Wed Sep 18 12:41:28 2019 +0300
+
+    Merge pull request #1361 from paroche/patch-46
+    
+    Update article.md
+
+[33mcommit d7f96653a343adf124c364ace26c22b1a6342e7c[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Tue Sep 17 23:42:07 2019 -0600
+
+    Update article.md
+    
+    Various small word and punctuation changes.
+
+[33mcommit 172d3dfb86e50c3a33f46720c9a66c914425c6ad[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Tue Sep 17 23:29:57 2019 -0600
+
+    Update article.md
+    
+    The ol' evade -> avoid.
+
+[33mcommit 1d2fe953bf52c59b42900b90d23404ee30448353[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Tue Sep 17 23:25:03 2019 -0600
+
+    Update article.md
+    
+    to that -> for this
+
+[33mcommit f64f0381bdac580e181de0e5a7bd10b97e7f8d6d[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Tue Sep 17 23:18:09 2019 -0600
+
+    Update article.md
+    
+    Added commas. "Later in the year" without commas at first suggests "later that same year" or "in the later part of the year" (like, say Autumn). It's clear from the context and all, but it reads easier this way.
+
+[33mcommit 22ca59efed1bb9e5e401f1ee24a717aed5172bcf[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Tue Sep 17 21:14:20 2019 -0600
+
+    Update article.md
+    
+    Adding 'is'.
+
+[33mcommit a477fff1b550448b82d2a96d43182b653d6dbea3[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Tue Sep 17 16:27:39 2019 -0600
+
+    Update article.md
+    
+    Adding "an". Making subject of second clause explicit (not necessary, but may improve readability).
+
+[33mcommit 98a8177078cb9fd7cf85d0dce3a921cd2e64b848[m
+Author: Violet Bora Lee <learnerbr@gmail.com>
+Date:   Wed Sep 18 04:15:48 2019 +0900
+
+    동적으로 모듈 가져오기 재번역
+    
+    - 원문 변경으로 인한 재 번역 진행
+
+[33mcommit 087d09a48d3bad6d4c5ef0ecc74cbe5de4ec1e77[m
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Wed Sep 18 04:14:13 2019 +0900
+
+    Fix typo
+
+[33mcommit 138bb2a995ef3b6ac30c742bf458b0b2f4823610[m
+Merge: 0c7562ae 3884b8e1
+Author: Violet Bora Lee <learnerbr@gmail.com>
+Date:   Wed Sep 18 03:41:35 2019 +0900
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 0c7562ae953541d4fcabbcecf40b585cb0504ba3[m
+Author: Violet Bora Lee <learnerbr@gmail.com>
+Date:   Wed Sep 18 03:41:20 2019 +0900
+
+    모듈 내보내고 가져오기 재번역
+    
+    - 원문 변경으로 인한 재 번역 진행
+
+[33mcommit 49bc62eee9ade971cbf7b2c67e5a4fa2ffa7602c[m
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Tue Sep 17 03:00:26 2019 +0900
+
+    Fix typo
+
+[33mcommit 9fd6995ec848e78e6042d0431e9be81439831480[m
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Tue Sep 17 00:38:10 2019 +0900
+
+    Fix typo
+
+[33mcommit 18e1d883c053552c8665015ac5ed6323198ec57f[m
+Author: Scott Martin <43204121+scottmartin-ln@users.noreply.github.com>
+Date:   Mon Sep 16 14:35:16 2019 +0100
+
+    Various minor grammar fixes and improvements
+    
+    Mostly adding "the" as necessary; typo fixes; some word order in clauses changed or contractions used for for smoothness
+
+[33mcommit 3884b8e1ce72ab7537a424b3d9e3de735921ce93[m
+Merge: d4a97d58 45589eda
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Mon Sep 16 22:10:31 2019 +0900
+
+    Merge pull request #146 from jiyeonnn03/master
+    
+    1-js/02-first-steps 번역되지 않은 부분 번역
+
+[33mcommit d4a97d5835c59234727b42a35f5c25ed6d66a9d5[m
+Merge: 60559a84 35f71e13
+Author: Violet.Lee <learnerbr@gmail.com>
+Date:   Mon Sep 16 22:08:21 2019 +0900
+
+    Merge pull request #145 from JuYeong0413/master
+    
+    1-js/01-getting-started/4-devtools/article.md 리뷰
+
+[33mcommit 35f71e1306fe26f91023de9c7e911abb35d7433d[m
+Author: JuYeong0413 <2jy22@naver.com>
+Date:   Mon Sep 16 21:31:23 2019 +0900
+
+    개발자 콘솔 리뷰
+
+[33mcommit 611c0fa10cdd4d9485dbe7d42201eac5cb130196[m
+Author: Patrick Silvestre <patrickjohnsilvestre@gmail.com>
+Date:   Mon Sep 16 02:08:16 2019 -0700
+
+    Update article.md
+
+[33mcommit 5fd99635073206b372b52aab9bff6ed6e7fc9b7f[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Sun Sep 15 22:12:19 2019 -0600
+
+    Update article.md
+    
+    Change "and" to "or". Goes better with "no".
+
+[33mcommit 19108b3a4e6a7e0e90c21ab78ef4a7cad2ef9a66[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Sun Sep 15 22:05:02 2019 -0600
+
+    Update article.md
+    
+    Wording change on intro to "Accessor descriptors".
+
+[33mcommit 45589eda1e4b3977d3155ef77d3fc282751e9509[m
+Author: jiyeon <yeoni0324@nate.com>
+Date:   Sun Sep 15 22:16:57 2019 +0900
+
+    Hello, world! 과제 번역 보완
+
+[33mcommit 60559a84597a577b88d4986bad756a3174829a88[m
+Author: Violet Bora Lee <learnerbr@gmail.com>
+Date:   Mon Sep 16 11:03:32 2019 +0900
+
+    모듈 소개 재번역
+
+[33mcommit 646989dd470395510e1006c220e05e85a06eb78a[m
+Merge: 1a13738c 723514fa
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Sun Sep 15 23:49:29 2019 +0300
+
+    Merge pull request #1346 from KamenKolev/patch-1
+    
+    Corrected typos
+
+[33mcommit 1a13738c1a92520c4c976d08df577bc97a5c122c[m
+Merge: c4b1a404 6e485cde
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Sun Sep 15 23:49:18 2019 +0300
+
+    Merge pull request #1347 from paroche/patch-29
+    
+    Update article.md
+
+[33mcommit 6e485cde25581979e2d4ba194d74b271c0eca326[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Sat Sep 14 14:13:33 2019 -0600
+
+    Update article.md
+    
+    Wording on internal name and Function Declarations.
+
+[33mcommit 723514fafba4fec3778aff466700f086983a5a1f[m
+Author: Kamen <kkolev@protonmail.com>
+Date:   Sat Sep 14 19:06:13 2019 +0300
+
+    Corrected typos
+
+[33mcommit 2949ac3a46a2e2077f13aeba7d41b6abe275e300[m
+Author: Violet Bora Lee <learnerbr@gmail.com>
+Date:   Sat Sep 14 22:08:08 2019 +0900
+
+    Promises, async/await 대단원 제목 번역
+
+[33mcommit e5dc42fe192be1f0ee59932aee63fb148f5dad1c[m
+Author: Violet Bora Lee <learnerbr@gmail.com>
+Date:   Sat Sep 14 21:52:54 2019 +0900
+
+    JSON과 메서드 과제 번역
+
+[33mcommit a8a85ad7fdf0dcf9ad13760d382aabd0c41852f9[m
+Author: Violet Bora Lee <learnerbr@gmail.com>
+Date:   Sat Sep 14 21:35:04 2019 +0900
+
+    JSON과 메서드 번역
+
+[33mcommit c4b1a404aeddb0a13f8dbd9cfe8a12fb31a94cca[m
+Merge: 42244df7 5138c587
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Sat Sep 14 12:52:26 2019 +0300
+
+    Merge pull request #1340 from paroche/patch-31
+    
+    Update article.md
+
+[33mcommit 42244df792072d62299f9cdfbb7775e3dfe8dcf0[m
+Merge: 478c3215 940a9b71
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Sat Sep 14 09:32:16 2019 +0300
+
+    Merge pull request #1339 from paroche/patch-29
+    
+    Update article.md
+
+[33mcommit 478c32158b21835b033b287f8721337ca42a9238[m
+Merge: cf19e84a 51d2d3e5
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Sat Sep 14 09:31:06 2019 +0300
+
+    Merge pull request #1341 from paroche/patch-32
+    
+    Update solution.md
+
+[33mcommit cf19e84a3b66712d0d5fb036d24aba2da01473e4[m
+Merge: a7d8fc3f 7886e24b
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Sat Sep 14 09:30:59 2019 +0300
+
+    Merge pull request #1342 from paroche/patch-33
+    
+    Update task.md
+
+[33mcommit a7d8fc3f794f00891e9ac5f33d772e0ef628fd41[m
+Merge: f97b2fd1 eda95124
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Sat Sep 14 09:29:19 2019 +0300
+
+    Merge pull request #1344 from paroche/patch-35
+    
+    Update article.md
+
+[33mcommit eda95124c42cc659174ac23a5b51caaf339f75aa[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Fri Sep 13 22:45:46 2019 -0600
+
+    Update article.md
+    
+    Remove comma.
+
+[33mcommit 7886e24b0f09182abb5bd6e601fddde457eebb03[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Fri Sep 13 20:58:31 2019 -0600
+
+    Update task.md
+    
+    Wording / punctuation change.
+
+[33mcommit 51d2d3e5fc4456e64fc09982673f08ad7b0cadef[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Fri Sep 13 17:04:35 2019 -0600
+
+    Update solution.md
+    
+    "avoid" rather than "evade".
+
+[33mcommit 5138c587be507f01167b7c2a3d5c33e1c6b80824[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Fri Sep 13 16:50:27 2019 -0600
+
+    Update article.md
+    
+    Wording adjustments in Summary lines "- Write/delete...", and "- The `for..in`...".
+
+[33mcommit 940a9b710dc357ea08dbcc3697899c0b1db0183d[m
+Author: paroche <46547072+paroche@users.noreply.github.com>
+Date:   Fri Sep 13 16:23:35 2019 -0600
+
+    Update article.md
+    
+    Wording and punctuation of 'hasOwnProperty' 'for..in' loop question and answer.
+
+[33mcommit f97b2fd1e2a4c3f89aeaa13bdb66bf2fb2ce05f6[m
+Merge: 2a18661f 4d139e94
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Fri Sep 13 22:51:10 2019 +0300
+
+    Merge pull request #1334 from paroche/patch-28
+    
+    Update article.md
+
+[33mcommit 2a18661fb85a07e3dfb395a4118a6a24bd7750ca[m
+Merge: 9fdad7a1 0c2b365d
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Fri Sep 13 17:58:06 2019 +0300
+
+    Merge pull request #1329 from scottmartin-ln/patch-1
+    
+    Minor grammar fix
+
+[33mcommit 9fdad7a15d3445fb9aed32bbe9abacce4bd87217[m
+Merge: 13bae5d9 a6de544b
+Author: Ilya Kantor <iliakan@users.noreply.github.com>
+Date:   Fri Sep 13 17:57:55 2019 +0300
+
+    Merge pull request #1330 from scottmartin-ln/patch-2
+    
+    Minor grammar fix
